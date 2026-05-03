@@ -9,9 +9,10 @@ This project is a Medical Recommendation System that suggests possible diseases 
 
 💻 Technologies Used
 Python
-Machine Learning (if used)
-Pandas / NumPy (if used)
+Machine Learning 
+Pandas / NumPy 
 Jupyter Notebook / VS Code
+
 🎯 Purpose
 
 This project was developed for academic learning and understanding how recommendation systems work. It is not a production-level medical tool.
